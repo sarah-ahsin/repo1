@@ -1,0 +1,6 @@
+This is a file opened for the first time in repo1.
+
+The first commit is done now.
+
+
+-----------------------------------------------------------------------
