@@ -1,1 +1,4 @@
 This is f2.txt, opened by command.
+
+
+Online editing in f2.txt.
